@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JJRossmann, currently a student in informqtion technologies
-- 👀 I’m interested in coding and cyber-security
+- 👋 Hi, I’m @JJRossmann, currently a student in information technologies
+- 👀 I’m interested in development and cyber-security
 - 🌱 I’m currently learning C#
 - I can code in C, Java, Python, OCaml, Bash scripting
 
